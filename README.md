@@ -1,8 +1,5 @@
 # 🌐 Kiranraj S - Portfolio Website
 
-Welcome to my **personal portfolio website**, proudly built using HTML, CSS (TailwindCSS), and hosted for free on **GitHub Pages** 🚀
-
-🔗 **Live Website:** [https://kiranraj792004.github.io](https://kiranraj792004.github.io)
 
 ---
 
@@ -13,15 +10,6 @@ Welcome to my **personal portfolio website**, proudly built using HTML, CSS (Tai
 
 ---
 
-## 💻 Technologies Used
-
-- **HTML5**
-- **Tailwind CSS** (via CDN)
-- **Font Awesome Icons**
-- **Responsive Design**
-- Hosted on **GitHub Pages**
-
----
 
 ## 📁 Portfolio Highlights
 
@@ -37,14 +25,4 @@ Welcome to my **personal portfolio website**, proudly built using HTML, CSS (Tai
 - 🧠 Soft Skills & Interests
 - 📬 Contact Info
 
----
 
-## 🛠️ How to Run Locally
-
-To test this website on your local machine:
-
-```bash
-# Clone the repo
-git clone https://github.com/kiranraj792004/kiranraj792004.github.io
-
-# Open index.html in browser
